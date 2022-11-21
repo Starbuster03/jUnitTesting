@@ -10,6 +10,7 @@ public class testaddnos {
 	public void test() {
 		jUnitTestPackage.jUnitFunctions a = new jUnitTestPackage.jUnitFunctions();
 		a.AddNumbers(4, 9);
+		//hi
 	}
 
 }
